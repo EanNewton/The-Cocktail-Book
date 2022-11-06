@@ -31,19 +31,19 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 
 ## Intro
 
-* Glossary
-* Cinzano Saver
-* Harry Wallbanger
-* Morning Fizz
-* Prairie Oyster I
-* Savoy Corpse Reviver
+* [Glossary](https://github.com/EanNewton/The-Cocktail-Book/blob/main/Intro/Glossary.md)
+* [Cinzano Saver](https://github.com/EanNewton/The-Cocktail-Book/blob/main/Intro/Cinzano%20Saver.md)
+* [Harry Wallbanger](https://github.com/EanNewton/The-Cocktail-Book/blob/main/Intro/Harry%20Wallbanger.md)
+* [Morning Fizz](https://github.com/EanNewton/The-Cocktail-Book/blob/main/Intro/Morning%20Fizz.md)
+* [Prairie Oyster I](https://github.com/EanNewton/The-Cocktail-Book/blob/main/Intro/Prairie%20Oyster%20I.md)
+* [Savoy Corpse Reviver](https://github.com/EanNewton/The-Cocktail-Book/blob/main/Intro/Savoy%20Corpse%20Reviver.md)
 
 ## Traditional Cocktails
 
-* Adonis
-* Alpine Glow
-* Americano
-* Après Ski
+* [Adonis](https://github.com/EanNewton/The-Cocktail-Book/blob/main/Traditional%20Cocktails/Adonis.md)
+* [Alpine Glow](https://github.com/EanNewton/The-Cocktail-Book/blob/main/Traditional%20Cocktails/Alpine%20Glow.md)
+* [Americano](https://github.com/EanNewton/The-Cocktail-Book/blob/main/Traditional%20Cocktails/Americano.md)
+* [Après Ski](https://github.com/EanNewton/The-Cocktail-Book/blob/main/Traditional%20Cocktails/Apr%C3%A8s%20Ski.md)
 * Between the Sheets
 * Black Russian
 * Bloody Mary
