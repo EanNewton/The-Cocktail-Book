@@ -44,44 +44,44 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 * [Alpine Glow](https://github.com/EanNewton/The-Cocktail-Book/blob/main/Traditional%20Cocktails/Alpine%20Glow.md)
 * [Americano](https://github.com/EanNewton/The-Cocktail-Book/blob/main/Traditional%20Cocktails/Americano.md)
 * [Après Ski](https://github.com/EanNewton/The-Cocktail-Book/blob/main/Traditional%20Cocktails/Apr%C3%A8s%20Ski.md)
-* Between the Sheets
-* Black Russian
-* Bloody Mary
-* Blue Blazer
-* Bronx
-* Bullshot
-* The Classic
-* COBBLERS
-* Cherry Cobbler 
-* Wine Cobbler
-* Collins
-* Depth Charge
-* East India
-* Embassy Royal
-* FLIPS
-* Sherry Flip
-* Fort Lauderdale
-* Foxhound
-* Freddy Fudpucker
-* Gloom Chaser
-* Gloom Raiser
-* Golden Tang
-* Harvard
-* Harvey Wallbanger
-* Inca
-* Jade
-* Katinka
-* MANHATTANS
-* Manhattan
-* Dry Manhattan
-* Perfect Manhattan
-* MARTINIS
-* Martini
-* Gibson Martini
-* Mint Julep
-* Negroni
-* Olympic
-* Oracabessa
+* [Between the Sheets](https://github.com/EanNewton/The-Cocktail-Book/blob/main/Traditional%20Cocktails/Between%20the%20Sheets.md)
+* [Black Russian](https://github.com/EanNewton/The-Cocktail-Book/blob/main/Traditional%20Cocktails/Black%20Russian.md)
+* [Bloody Mary](https://github.com/EanNewton/The-Cocktail-Book/blob/main/Traditional%20Cocktails/Bloody%20Mary.md)
+* [Blue Blazer](https://github.com/EanNewton/The-Cocktail-Book/blob/main/Traditional%20Cocktails/Blue%20Blazer.md)
+* [Bronx](https://github.com/EanNewton/The-Cocktail-Book/blob/main/Traditional%20Cocktails/Bronx.md)
+* [Bullshot](https://github.com/EanNewton/The-Cocktail-Book/blob/main/Traditional%20Cocktails/Bullshot.md)
+* [The Classic](https://github.com/EanNewton/The-Cocktail-Book/blob/main/Traditional%20Cocktails/The%20Classic.md)
+* [COBBLERS](https://github.com/EanNewton/The-Cocktail-Book/blob/main/Traditional%20Cocktails/Cobblers.md)
+* [Cherry Cobbler ](https://github.com/EanNewton/The-Cocktail-Book/blob/main/Traditional%20Cocktails/Cherry%20Cobbler.md)
+* [Wine Cobbler](https://github.com/EanNewton/The-Cocktail-Book/blob/main/Traditional%20Cocktails/Wine%20Cobbler.md)
+* [Collins](https://github.com/EanNewton/The-Cocktail-Book/blob/main/Traditional%20Cocktails/Collins.md)
+* [Depth Charge](https://github.com/EanNewton/The-Cocktail-Book/blob/main/Traditional%20Cocktails/Depth%20Charge.md)
+* [East India](https://github.com/EanNewton/The-Cocktail-Book/blob/main/Traditional%20Cocktails/East%20India.md)
+* [Embassy Royal](https://github.com/EanNewton/The-Cocktail-Book/blob/main/Traditional%20Cocktails/Embassy%20Royal.md)
+* [FLIPS](https://github.com/EanNewton/The-Cocktail-Book/blob/main/Traditional%20Cocktails/FLIPS.md)
+* [Sherry Flip](https://github.com/EanNewton/The-Cocktail-Book/blob/main/Traditional%20Cocktails/Sherry%20Flip.md)
+* [Fort Lauderdale](https://github.com/EanNewton/The-Cocktail-Book/blob/main/Traditional%20Cocktails/Fort%20Lauderdale.md)
+* [Foxhound](https://github.com/EanNewton/The-Cocktail-Book/blob/main/Traditional%20Cocktails/Foxhound.md)
+* [Freddy Fudpucker](https://github.com/EanNewton/The-Cocktail-Book/blob/main/Traditional%20Cocktails/Freddy%20Fudpucker.md)
+* [Gloom Chaser](https://github.com/EanNewton/The-Cocktail-Book/blob/main/Traditional%20Cocktails/Gloom%20Chaser.md)
+* [Gloom Raiser](https://github.com/EanNewton/The-Cocktail-Book/blob/main/Traditional%20Cocktails/Gloom%20Raiser.md)
+* [Golden Tang](https://github.com/EanNewton/The-Cocktail-Book/blob/main/Traditional%20Cocktails/Golden%20Tang.md)
+* [Harvard](https://github.com/EanNewton/The-Cocktail-Book/blob/main/Traditional%20Cocktails/Harvard.md)
+* [Harvey Wallbanger](https://github.com/EanNewton/The-Cocktail-Book/blob/main/Traditional%20Cocktails/Harvey%20Wallbanger.md)
+* [Inca](https://github.com/EanNewton/The-Cocktail-Book/blob/main/Traditional%20Cocktails/Inca.md)
+* [Jade](https://github.com/EanNewton/The-Cocktail-Book/blob/main/Traditional%20Cocktails/Jade.md)
+* [Katinka](https://github.com/EanNewton/The-Cocktail-Book/blob/main/Traditional%20Cocktails/Katinka.md)
+* [MANHATTANS](https://github.com/EanNewton/The-Cocktail-Book/blob/main/Traditional%20Cocktails/MANHATTANS.md)
+* [Manhattan](https://github.com/EanNewton/The-Cocktail-Book/blob/main/Traditional%20Cocktails/Manhattan.md)
+* [Dry Manhattan](https://github.com/EanNewton/The-Cocktail-Book/blob/main/Traditional%20Cocktails/Dry%20Manhattan.md)
+* [Perfect Manhattan](https://github.com/EanNewton/The-Cocktail-Book/blob/main/Traditional%20Cocktails/Perfect%20Manhattan.md)
+* [MARTINIS](https://github.com/EanNewton/The-Cocktail-Book/blob/main/Traditional%20Cocktails/MARTINIS.md)
+* [Martini](https://github.com/EanNewton/The-Cocktail-Book/blob/main/Traditional%20Cocktails/Martini.md)
+* [Gibson Martini](https://github.com/EanNewton/The-Cocktail-Book/blob/main/Traditional%20Cocktails/Gibson%20Martini.md)
+* [Mint Julep](https://github.com/EanNewton/The-Cocktail-Book/blob/main/Traditional%20Cocktails/Mint%20Julep.md)
+* [Negroni](https://github.com/EanNewton/The-Cocktail-Book/blob/main/Traditional%20Cocktails/Negroni.md)
+* [Olympic](https://github.com/EanNewton/The-Cocktail-Book/blob/main/Traditional%20Cocktails/Olympic.md)
+* [Oracabessa](https://github.com/EanNewton/The-Cocktail-Book/blob/main/Traditional%20Cocktails/Oracabessa.md)
 * Orange Blossom
 * Pink Almond
 * Polonaise
