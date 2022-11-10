@@ -2,9 +2,9 @@
 
 ## By Michael Walker
 
-## Photographs by Robert Golden
+### Photographs by Robert Golden
 
-## Published 1980 by H.P. Books
+### Published 1980 by H.P. Books
 
 Shared under the [United States Copyright Office Compendium chapter 313.4(F)](https://www.copyright.gov/comp3/docs/compendium.pdf) and [Circular 33](https://www.copyright.gov/circs/circ33.pdf). If you found this repo helpful please consider buying Michael's book and [buying me a coffee](#buy-me-a-coffee).
 
@@ -82,32 +82,32 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 * [Negroni](https://github.com/EanNewton/The-Cocktail-Book/blob/main/Traditional%20Cocktails/Negroni.md)
 * [Olympic](https://github.com/EanNewton/The-Cocktail-Book/blob/main/Traditional%20Cocktails/Olympic.md)
 * [Oracabessa](https://github.com/EanNewton/The-Cocktail-Book/blob/main/Traditional%20Cocktails/Oracabessa.md)
-* Orange Blossom
-* Pink Almond
-* Polonaise
-* Polynesia
-* Pompano
-* Prince Edward
-* Rhett Butler
-* Rob Roy
-* Rosé Glow
-* Rusty Nail
-* Sidecara
-* Singapore Sling
-* SOURS
-* Whisky Sour
-* Fruit Sour
-* STINGERS
-* Classic Stinger
-* Tall Dutch
-* Toronto
-* Trinity
-* Uptown
-* Vanderbilt
-* Whip
-* White Rose
-* Yellow Fingers
-* Za-Za
+* [Orange Blossom](https://github.com/EanNewton/The-Cocktail-Book/blob/main/Traditional%20Cocktails/Orange%20Blossom.md)
+* [Pink Almond](https://github.com/EanNewton/The-Cocktail-Book/blob/main/Traditional%20Cocktails/Pink%20Almond.md)
+* [Polonaise](https://github.com/EanNewton/The-Cocktail-Book/blob/main/Traditional%20Cocktails/Polonaise.md)
+* [Polynesia](https://github.com/EanNewton/The-Cocktail-Book/blob/main/Traditional%20Cocktails/Polynesia.md)
+* [Pompano](https://github.com/EanNewton/The-Cocktail-Book/blob/main/Traditional%20Cocktails/Pompano.md)
+* [Prince Edward](https://github.com/EanNewton/The-Cocktail-Book/blob/main/Traditional%20Cocktails/Prince%20Edward.md)
+* [Rhett Butler](https://github.com/EanNewton/The-Cocktail-Book/blob/main/Traditional%20Cocktails/Rhett%20Butler.md)
+* [Rob Roy](https://github.com/EanNewton/The-Cocktail-Book/blob/main/Traditional%20Cocktails/Rob%20Roy.md)
+* [Rosé Glow](https://github.com/EanNewton/The-Cocktail-Book/blob/main/Traditional%20Cocktails/Rose%20Glow.md)
+* [Rusty Nail](https://github.com/EanNewton/The-Cocktail-Book/blob/main/Traditional%20Cocktails/Rusty%20Nail.md)
+* [Sidecar](https://github.com/EanNewton/The-Cocktail-Book/blob/main/Traditional%20Cocktails/Sidecar.md)
+* [Singapore Sling](https://github.com/EanNewton/The-Cocktail-Book/blob/main/Traditional%20Cocktails/Singapore%20Sling.md)
+* [SOURS](https://github.com/EanNewton/The-Cocktail-Book/blob/main/Traditional%20Cocktails/SOURS.md)
+* [Whisky Sour](https://github.com/EanNewton/The-Cocktail-Book/blob/main/Traditional%20Cocktails/Whisky%20Sour.md)
+* [Fruit Sour](https://github.com/EanNewton/The-Cocktail-Book/blob/main/Traditional%20Cocktails/Fruit%20Sour.md)
+* [STINGERS](https://github.com/EanNewton/The-Cocktail-Book/blob/main/Traditional%20Cocktails/STINGERS.md)
+* [Classic Stinger](https://github.com/EanNewton/The-Cocktail-Book/blob/main/Traditional%20Cocktails/Classic%20Stinger.md)
+* [Tall Dutch](https://github.com/EanNewton/The-Cocktail-Book/blob/main/Traditional%20Cocktails/Tall%20Dutch.md)
+* [Toronto](https://github.com/EanNewton/The-Cocktail-Book/blob/main/Traditional%20Cocktails/Toronto.md)
+* [Trinity](https://github.com/EanNewton/The-Cocktail-Book/blob/main/Traditional%20Cocktails/Trinity.md)
+* [Uptown](https://github.com/EanNewton/The-Cocktail-Book/blob/main/Traditional%20Cocktails/Uptown.md)
+* [Vanderbilt](https://github.com/EanNewton/The-Cocktail-Book/blob/main/Traditional%20Cocktails/Vanderbilt.md)
+* [Whip](https://github.com/EanNewton/The-Cocktail-Book/blob/main/Traditional%20Cocktails/Whip.md)
+* [White Rose](https://github.com/EanNewton/The-Cocktail-Book/blob/main/Traditional%20Cocktails/White%20Rose.md)
+* [Yellow Fingers](https://github.com/EanNewton/The-Cocktail-Book/blob/main/Traditional%20Cocktails/Yellow%20Fingers.md)
+* [Za-Za](https://github.com/EanNewton/The-Cocktail-Book/blob/main/Traditional%20Cocktails/Za-Za.md)
 
 ## Exotic Cocktails
 
