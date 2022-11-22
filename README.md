@@ -111,20 +111,20 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 
 ## Exotic Cocktails
 
-* Acapulco
-* Apricot Lady
-* Boonoonoos
-* Bossa Nova
-* Corcovado
-* Cuban Peach
-* DAQUIRIS
-* Fruit Daquiri
-* Dorothy Lamour
-* East Indies
-* Florida
-* Fu Manchu
-* Golden Gate
-* Havana Beach
+* [Acapulco](https://github.com/EanNewton/The-Cocktail-Book/blob/main/Exotic%20Cocktails/Acapulco.md)
+* [Apricot Lady](https://github.com/EanNewton/The-Cocktail-Book/blob/main/Exotic%20Cocktails/Apricot%20Lady.md)
+* [Boonoonoos](https://github.com/EanNewton/The-Cocktail-Book/blob/main/Exotic%20Cocktails/Boonoonoos.md)
+* [Bossa Nova](https://github.com/EanNewton/The-Cocktail-Book/blob/main/Exotic%20Cocktails/Bossa%20Nova.md)
+* [Corcovado](https://github.com/EanNewton/The-Cocktail-Book/blob/main/Exotic%20Cocktails/Corcovado.md)
+* [Cuban Peach](https://github.com/EanNewton/The-Cocktail-Book/blob/main/Exotic%20Cocktails/Cuban%20Peach.md)
+* [DAQUIRIS](https://github.com/EanNewton/The-Cocktail-Book/blob/main/Exotic%20Cocktails/DAQUIRIS.md)
+* [Fruit Daquiri](https://github.com/EanNewton/The-Cocktail-Book/blob/main/Exotic%20Cocktails/Fruit%20Daquiri.md)
+* [Dorothy Lamour](https://github.com/EanNewton/The-Cocktail-Book/blob/main/Exotic%20Cocktails/Dorothy%20Lamour.md)
+* [East Indies](https://github.com/EanNewton/The-Cocktail-Book/blob/main/Exotic%20Cocktails/East%20Indies.md)
+* [Florida](https://github.com/EanNewton/The-Cocktail-Book/blob/main/Exotic%20Cocktails/Florida.md)
+* [Fu Manchu](https://github.com/EanNewton/The-Cocktail-Book/blob/main/Exotic%20Cocktails/Fu%20Manchu.md)
+* [Golden Gate](https://github.com/EanNewton/The-Cocktail-Book/blob/main/Exotic%20Cocktails/Golden%20Gate.md)
+* [Havana Beach](https://github.com/EanNewton/The-Cocktail-Book/blob/main/Exotic%20Cocktails/Havana%20Beach.md)
 * Hong Kong Fizz
 * Janet Venus
 * Julia
